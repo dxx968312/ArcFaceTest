@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">夏目友人帐</string>
+    <string name="viewpager_four_button">开启夏目友人帐之旅</string>
+    <string name="textView2_loginpage">登录界面</string>
+    <string name="textView3_name">账号</string>
+    <string name="textView4_password">密码</string>
+    <string name="button2">登录</string>
+    <string name="button4">注册</string>
+    <string name="checkbox">同意协议</string>
+    <string name="textView">用其他方式登录</string>
+    <string name="textView2">欢迎进入首页</string>
+    <string name="main_title">夏目友人帐</string>
+    <string name="main_item_one">首页</string>
+    <string name="main_item_two">角色列表</string>
+    <string name="main_item_three">剧集列表</string>
+    <string name="main_item_four">收藏列表</string>
+    <string name="view_person_text">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+</resources>
